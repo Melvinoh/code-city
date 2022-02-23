@@ -1,2 +1,1 @@
-# code-city
-best codding experience 
+my first read me  
